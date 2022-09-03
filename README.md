@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @natanloc
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development and python
+- 📫 How to reach me: instagram: @natanloc
