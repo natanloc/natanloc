@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @natanloc
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development and python
-- 📫 How to reach me: instagram: @natanloc
+- 👋 Hi, I’m @natanloc;
+- 🌱 I’m currently learning JavaScript;
+- 📫 How to reach me {
+   instagram: @natanloc;
+   tiktok: @natanloc;
+}
