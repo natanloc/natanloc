@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Natan Lagassa
 
 I'm a **Front-End Developer** from Brazil passionate about creating modern, high-performance web applications.
-My main focus is on **React with TypeScript**, building clean, scalable, and user-friendly interfaces — but I also have experience developing APIs and back-end services with **Node.js, Fastify, and ORMs**.
+My main focus is on **React with TypeScript**, building clean, scalable, and user-friendly interfaces, but I also have experience developing APIs and back-end services with **Node.js, Fastify, and ORMs**.
 
 ---
 
