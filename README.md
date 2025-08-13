@@ -34,5 +34,5 @@ A modern finance management web application built with **React + TypeScript** on
 
 - 📷 Instagram: [@natanloc](https://instagram.com/natanloc)  
 - 🎥 TikTok: [@natanloc](https://tiktok.com/@natanloc)  
-- 💼 LinkedIn: [linkedin.com/in/natanloc]([https://linkedin.com/in/natanloc](https://www.linkedin.com/in/natan-lagassa-624738291/))  
+- 💼 LinkedIn: [linkedin.com/in/natanloc](https://linkedin.com/in/natanloc](https://www.linkedin.com/in/natan-lagassa-624738291/ )  
 - 💻 GitHub: [github.com/natanloc](https://github.com/natanloc)  
